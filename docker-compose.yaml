@@ -1,5 +1,5 @@
 services:
-  api:
+  api_evolution_audio_converter:
     container_name: evolution_audio_converter
     image: atendai/evolution-audio-converter:latest
     restart: always
